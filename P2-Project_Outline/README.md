@@ -7,12 +7,25 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+I am creating a service management system geared toward hair stylists/barbers not working with a corporate company to improve work flow and service efficiency. It will be made as a mobile web app to give users easy access. I got this idea from my own need for something like this as a hair stylist that didn't have a lot of options for apps to help me manage my business.
+
 ### Features
-Include Features here
+-Homepage: The first page users will interact with will give info about the app and have buttons to send them to either the Registration or Login page
+-User Registration: Users can create a profile
+-User Login: Users can log into their profiles
+-Profile: Users can add a bio and the services they provide (with prices) for clients to see
+-Appointment Tracker: Users can input appointments to help them keep track of and prepare for their daily work
+
 ### Technologies
-Include Technologies here
+In Visual Studio 2019:
+-C#
+-JavaScript, with TypeScript
+-HTML & CSS
+-SQL 
+-ASP.NET Core MVC
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+I have not had experience with accounts/profiles that users can create and log into. I have also had little introduction to authentication.
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/J99d7APL/ho%CA%BBohui

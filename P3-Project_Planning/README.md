@@ -7,11 +7,11 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-* ![Homepage](master/Mockups-Homepage.png)
+* ![Homepage](https://github.com/safatah/sms/blob/master/Mockups-Homepage.png)
   * https://github.com/safatah/sms/blob/master/Mockups-Homepage.png
-* ![Login](master/Mockups-Login.png)
+* ![Login](https://github.com/safatah/sms/blob/master/Mockups-Login.png)
   * https://github.com/safatah/sms/blob/master/Mockups-Login.png
-* ![Signup](master/Mockups-SignUp.png)
+* ![Signup](https://github.com/safatah/sms/blob/master/Mockups-SignUp.png)
   * https://github.com/safatah/sms/blob/master/Mockups-SignUp.png
 
 ### Project Tracker
